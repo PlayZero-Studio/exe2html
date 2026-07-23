@@ -11,3 +11,4 @@ The generated HTML code is saved in the output_script.html file.
 You can now run the HTML code using the generated output_script.html file. But keep in mind that this code uses ActiveX objects and you need to be careful about security. Therefore, you should only use this code to run .exe files from trusted and well-known sources.
 
 After the process is complete, the temporary generated output_base64.txt file will be deleted.
+(No soy el tipo que hizo esto pero no intenten usarlo, es falso, no me funciono)
